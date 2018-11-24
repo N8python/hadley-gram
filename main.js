@@ -7,7 +7,7 @@ ctx.font = "40px Courier";
 ctx.textAlign = "center";
 ctx.fillText("HAPPY BIRTHDAY! WE LOVE YOU!", width / 2, height / 2 - 100);
 ctx.font = "20px Courier";
-ctx.fillText("Click the Start Button to start up your gram", width / 2, height / 2);
+ctx.fillText("Click the Start Button to start up your gram!", width / 2, height / 2);
 var firstFrame = 0;
 var cList = [];
 var red = 200;
